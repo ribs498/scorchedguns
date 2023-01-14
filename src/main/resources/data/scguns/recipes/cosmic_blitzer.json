@@ -1,0 +1,22 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 12,
+      "item": "scorchedguns:diamond_steel"
+    },
+    {
+      "count": 3,
+      "tag": "minecraft:planks"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:cosmic_blitzer"
+  }
+}

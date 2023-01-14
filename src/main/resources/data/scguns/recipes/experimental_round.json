@@ -1,0 +1,22 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 3,
+      "item": "scorchedguns:pure_gunpowder"
+    },
+    {
+      "count": 4,
+      "item": "scorchedguns:scorched_bronze_ingot"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:iron_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 32,
+    "item": "scorchedguns:experimental_round"
+  }
+}

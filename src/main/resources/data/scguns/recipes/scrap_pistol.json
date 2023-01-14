@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RT ",
+    "Q  "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "minecraft:flint"
+    },
+    "T": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:scrap_pistol",
+    "count": 1
+  }
+}

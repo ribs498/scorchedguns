@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 20,
+      "item": "scorchedguns:scorched_bronze_ingot"
+    },
+    {
+      "count": 8,
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:sc_dahka"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 5,
+      "tag": "minecraft:planks"
+    },
+    {
+      "count": 5,
+      "item": "minecraft:stick"
+    }
+
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:wooden_stock"
+  }
+}

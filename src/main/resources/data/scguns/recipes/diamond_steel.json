@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RQ ",
+    "Q  "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "Q": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:diamond_steel",
+    "count": 2
+  }
+}

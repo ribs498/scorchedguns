@@ -1,0 +1,15 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 14,
+      "item": "minecraft:iron_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:scattergun"
+  }
+}

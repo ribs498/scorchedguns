@@ -1,0 +1,26 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 32,
+      "item": "scorchedguns:tin_bronze_ingot"
+    },
+    {
+      "count": 3,
+      "tag": "minecraft:planks"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:thunderhead"
+  }
+}

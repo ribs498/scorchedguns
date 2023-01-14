@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 3,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:iron_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 32,
+    "item": "scorchedguns:scorched_shell"
+  }
+}

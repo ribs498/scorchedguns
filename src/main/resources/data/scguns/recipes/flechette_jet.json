@@ -1,0 +1,15 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 24,
+      "item": "minecraft:iron_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:flechette_jet"
+  }
+}

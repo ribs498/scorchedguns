@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 1,
+      "item": "minecraft:sponge"
+    },
+    {
+      "count": 5,
+      "item": "scorchedguns:tin_bronze_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:advanced_silencer"
+  }
+}

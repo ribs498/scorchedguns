@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Q  ",
+    "RSS",
+    " S "
+  ],
+  "key": {
+    "Q": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:volley_gun",
+    "count": 1
+  }
+}

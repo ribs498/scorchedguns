@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RS ",
+    "Q  "
+  ],
+  "key": {
+    "Q": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:scrap_cannon",
+    "count": 1
+  }
+}

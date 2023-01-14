@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RQR",
+    " R "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "R": {
+      "item": "scorchedguns:pure_gunpowder"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:nitro_dust",
+    "count": 16
+  }
+}

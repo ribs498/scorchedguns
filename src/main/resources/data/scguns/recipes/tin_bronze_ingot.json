@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RS ",
+    "Q  "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:tin_bronze_ingot",
+    "count": 3
+  }
+}

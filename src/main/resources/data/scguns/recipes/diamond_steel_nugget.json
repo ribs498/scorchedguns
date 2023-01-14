@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " Q ",
+    "   "
+  ],
+  "key": {
+    "Q": {
+      "item": "scorchedguns:diamond_steel"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:diamond_steel_nugget",
+    "count": 9
+  }
+}

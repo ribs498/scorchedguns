@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " RS",
+    "Q  "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:crossbow"
+    },
+    "S": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Q": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:auto_crossbow",
+    "count": 1
+  }
+}

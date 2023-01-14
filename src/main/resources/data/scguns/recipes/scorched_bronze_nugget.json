@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " Q ",
+    "   "
+  ],
+  "key": {
+    "Q": {
+      "item": "scorchedguns:scorched_bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:scorched_bronze_nugget",
+    "count": 9
+  }
+}

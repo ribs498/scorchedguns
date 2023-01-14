@@ -1,0 +1,34 @@
+{
+  "general": {
+    "rate": 30,
+    "gripType": "cgm:one_handed",
+    "maxAmmo": 1,
+    "reloadAmount": 1,
+    "recoilAngle": 50.0,
+    "recoilKick": 20,
+    "recoilAdsReduction": 0.4,
+    "projectileAmount": 20,
+    "alwaysSpread": true,
+    "spread": 50.0
+  },
+  "projectile": {
+    "item": "scorchedguns:volatile_scrap",
+    "damage": 25.0,
+    "size": 1.0,
+    "speed": 10.0,
+    "life": 5
+  },
+  "sounds": {
+    "fire": "cgm:item.shotgun.fire",
+    "reload": "cgm:item.pistol.reload",
+    "cock": "cgm:item.shotgun.cock",
+    "silencedFire": "cgm:item.shotgun.silenced_fire",
+    "enchantedFire": "cgm:item.shotgun.enchanted_fire"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.6505,
+      "zOffset": -3.81
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "item.flamethrower.fire": {
+    "subtitle": "subtitle.scguns.regular_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/flamethrower_fire"
+      }
+    ]
+  },
+  "item.magnum.fire": {
+    "subtitle": "subtitle.scguns.regular_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/magnum_fire"
+      }
+    ]
+  },
+  "item.shotgun.fire": {
+    "subtitle": "subtitle.scguns.regular_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/shotgun_fire"
+      }
+    ]
+  },
+  "item.pistol.fire": {
+    "subtitle": "subtitle.scguns.regular_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/pistol_fire"
+      }
+    ]
+  },
+  "item.pistol.suppressed": {
+    "subtitle": "subtitle.scguns.suppressed_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/pistol_suppressed"
+      }
+    ]
+  },
+  "item.heavy.fire": {
+    "subtitle": "subtitle.scguns.regular_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/heavy_fire"
+      }
+    ]
+  },
+  "item.heavy.suppressed": {
+    "subtitle": "subtitle.scguns.suppressed_fire",
+    "sounds": [
+      {
+        "name": "scguns:item/heavy_suppression"
+      }
+    ]
+  }
+}

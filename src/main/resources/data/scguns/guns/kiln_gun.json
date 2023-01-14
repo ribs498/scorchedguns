@@ -1,0 +1,45 @@
+{
+  "general": {
+    "auto": true,
+    "rate": 15,
+    "gripType": "cgm:mini_gun",
+    "maxAmmo": 4,
+    "reloadAmount": 1,
+    "recoilAngle": 7.0,
+    "recoilKick": 7.0,
+    "alwaysSpread": true,
+    "projectileAmount": 15,
+    "spread": 15.0
+  },
+  "projectile": {
+    "item": "scorchedguns:osborne_slug",
+    "damage": 40.0,
+    "size": 0.8,
+    "speed": 8.0,
+    "life": 30
+  },
+  "sounds": {
+    "fire": "scorchedguns:item.heavy.fire",
+    "reload": "cgm:item.pistol.reload",
+    "enchantedFire": "cgm:item.mini_gun.enchanted_fire"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 2.7,
+      "zOffset": -24.51
+    },
+    "modules": {
+      "zoom": {
+        "yOffset": 3.6223,
+        "zOffset": 4.0,
+        "fovModifier": 0.7
+      },
+      "attachments": {
+        "barrel": {
+          "yOffset": 3.7,
+          "zOffset": -4.3,
+          "scale": 0.38
+        }
+      }
+    }}}
+

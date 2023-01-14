@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RS ",
+    "Q  "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "item": "minecraft:gunpowder"
+    },
+    "S": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:powder_and_ball",
+    "count": 32
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 6,
+      "item": "scorchedguns:tin_bronze_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:muzzle_brake"
+  }
+}

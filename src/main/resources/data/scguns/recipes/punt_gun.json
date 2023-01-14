@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 48,
+      "item": "minecraft:iron_block"
+    },
+    {
+      "count": 1,
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:punt_gun"
+  }
+}

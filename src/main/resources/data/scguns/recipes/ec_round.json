@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 2,
+      "item": "scorchedguns:pure_gunpowder"
+    },
+    {
+      "count": 4,
+      "item": "scorchedguns:flechette"
+    }
+
+  ],
+  "result": {
+    "count": 12,
+    "item": "scorchedguns:ec_round"
+  }
+}

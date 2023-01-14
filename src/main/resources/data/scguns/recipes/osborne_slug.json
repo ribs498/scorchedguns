@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 2,
+      "item": "scorchedguns:nitro_dust"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:iron_ingot"
+    }
+
+  ],
+  "result": {
+    "count": 8,
+    "item": "scorchedguns:osborne_slug"
+  }
+}

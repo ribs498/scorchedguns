@@ -1,0 +1,22 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 16,
+      "item": "scorchedguns:scorched_bronze_ingot"
+    },
+    {
+      "count": 8,
+      "tag": "minecraft:planks"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:frontier_sidearm"
+  }
+}

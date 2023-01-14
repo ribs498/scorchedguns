@@ -1,0 +1,22 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 2,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "count": 3,
+      "item": "scorchedguns:flechette"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:gold_nugget"
+    }
+
+  ],
+  "result": {
+    "count": 32,
+    "item": "scorchedguns:flechette_round"
+  }
+}

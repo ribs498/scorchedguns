@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RST",
+    "Q  "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:copper_block"
+    },
+    "T": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:bastard_gun",
+    "count": 1
+  }
+}

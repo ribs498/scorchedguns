@@ -1,0 +1,15 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 16,
+      "item": "minecraft:iron_block"
+    }
+
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:kiln_gun"
+  }
+}

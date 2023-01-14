@@ -1,0 +1,22 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 24,
+      "item": "scorchedguns:tin_bronze_ingot"
+    },
+    {
+      "count": 3,
+      "tag": "minecraft:planks"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:cogloader"
+  }
+}

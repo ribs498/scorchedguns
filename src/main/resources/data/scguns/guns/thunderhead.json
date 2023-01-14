@@ -1,0 +1,43 @@
+{
+  "general": {
+    "auto": true,
+    "rate": 3,
+    "gripType": "cgm:mini_gun",
+    "maxAmmo": 50,
+    "reloadAmount": 50,
+    "recoilAngle": 4.0,
+    "alwaysSpread": true,
+    "spread": 1.0
+  },
+  "projectile": {
+    "item": "scorchedguns:heavy_bullet",
+    "damage": 25.0,
+    "size": 0.8,
+    "speed": 8.0,
+    "life": 30
+  },
+  "sounds": {
+    "fire": "cgm:item.heavy_rifle.fire",
+    "reload": "cgm:item.pistol.reload",
+    "enchantedFire": "cgm:item.mini_gun.enchanted_fire"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 2.7,
+      "zOffset": -24.51
+    },
+    "modules": {
+      "zoom": {
+        "yOffset": 3.6223,
+        "zOffset": 4.0,
+        "fovModifier": 0.7
+      },
+      "attachments": {
+        "barrel": {
+          "yOffset": 3.7,
+          "zOffset": -4.3,
+          "scale": 0.38
+        }
+      }
+    }}}
+

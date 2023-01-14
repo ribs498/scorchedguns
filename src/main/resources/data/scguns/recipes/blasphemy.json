@@ -1,0 +1,18 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+
+    {
+      "count": 12,
+      "item": "scorchedguns:scorched_bronze_ingot"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "scorchedguns:blasphemy"
+  }
+}

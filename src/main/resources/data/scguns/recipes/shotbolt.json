@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RQR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:arrow"
+    },
+    "Q": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:shotbolt",
+    "count": 8
+  }
+}

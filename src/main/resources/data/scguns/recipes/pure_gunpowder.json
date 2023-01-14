@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RQR",
+    " R "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:sand"
+    },
+    "R": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:pure_gunpowder",
+    "count": 8
+  }
+}

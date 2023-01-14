@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "scorchedguns:rivet",
+    "count": 8
+  }
+}
